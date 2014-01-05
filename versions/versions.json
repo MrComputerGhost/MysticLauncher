@@ -1,0 +1,14 @@
+{ 
+  "latest": {
+    "dev": "0.1",
+    "stable": "none"
+  },
+  "versions": [
+    {
+      "id": "0.1",
+      "time": "unknown",
+      "releaseTime": "unknown",
+      "type": "dev"
+    }
+  ]
+}
